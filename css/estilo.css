@@ -1,0 +1,33 @@
+
+html, body{
+    background: color #2f4f30;
+    color: black;
+}
+
+.cabecera {
+    text-align: center;
+    background-color: rgb(2, 59, 2);
+    color:black;
+    padding: 18px;
+    font-size: 1.30em;
+}
+.carta {
+    position: relative;
+    width: 120px;
+    left:100px;
+    margin-left:-80px;
+    padding-top: 14px;
+
+}
+#Bot-cartas, #jugador-cartas {
+    height: 210px;
+}
+#boton{
+    padding-bottom: 18px;
+}
+#Ganador{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 1.5em;
+}
